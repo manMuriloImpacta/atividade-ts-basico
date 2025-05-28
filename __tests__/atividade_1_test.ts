@@ -1,12 +1,12 @@
 import {
-    nome,
-    idade,
     altura,
     estudante,
-    verificaParImpar,
-    somatorio,
     fibonacci,
+    idade,
+    nome,
     Retangulo,
+    somatorio,
+    verificaParImpar,
 } from "../atividade_1";
 
 test("Declaração de Variáveis", () => {
